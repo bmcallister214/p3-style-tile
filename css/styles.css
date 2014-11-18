@@ -45,6 +45,28 @@ section {
 	width: 50px;
 }
 
+.color-1 {
+	background: #7E8A88;
+}
+
+.color-2 {
+	background: #9D7A80;
+}
+
+.color-3 {
+	background: #B0B0B0;
+}
+
+.pattern-1 {
+	background: url("../img/pat1.png");
+}
+
+.pattern-2 {
+	background: url("../img/pat2.png");
+}
+.pattern-3 {
+	background: url("../img/pat3.png");
+}
 
 /* Show Grid */
 .showgrid {
