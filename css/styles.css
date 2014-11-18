@@ -1,3 +1,27 @@
+/*Primary Header*/
+h1 {
+	font-family: 'Monoton', cursive;
+	color: #8E5C5D;
+}
+
+/*Body Text*/
+p {
+	font-family: 'Lobster', cursive;
+	color: #F2E9E2;
+}
+
+/*Baseline Links*/
+a:link,
+a:visited {
+	border-bottom: dashed orange 2px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+a:hover {
+	background: #82AE59;
+}
+
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
