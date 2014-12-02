@@ -1,13 +1,13 @@
 /*Primary Header*/
 h1 {
-	font-family: 'Monoton', cursive;
-	color: #8E5C5D;
+	font-family: 'Arvo', serif;
+	color: #629682;
 }
 
 /*Body Text*/
 p {
-	font-family: 'Lobster', cursive;
-	color: #F2E9E2;
+	font-family: 'Arimo', sans-serif;
+	color: #965F53;
 }
 
 /*Baseline Links*/
@@ -18,8 +18,8 @@ a:visited {
 	text-decoration: none;
 }
 
-a:hover {
-	background: #82AE59;
+a {
+	color: #ABE3CD;
 }
 
 /* Set Your Own Margin & Padding */
@@ -46,15 +46,15 @@ section {
 }
 
 .color-1 {
-	background: #7E8A88;
+	background: #629682;
 }
 
 .color-2 {
-	background: #9D7A80;
+	background: #ABE3CD;
 }
 
 .color-3 {
-	background: #B0B0B0;
+	background: #965F53;
 }
 
 .pattern-1 {
